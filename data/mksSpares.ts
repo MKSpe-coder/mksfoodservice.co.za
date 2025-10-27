@@ -1,0 +1,148 @@
+import { MksSparePart } from '../types';
+
+export const mksBunToasterSpares: MksSparePart[] = [
+  {
+    id: 'MKS-8516768',
+    name: 'Bearing with Holes',
+    description: 'Replacement bearing with holes for stamping and molding assembly.',
+    imageUrl: 'https://i.postimg.cc/wjcrW4m7/BEARING-WITH-HOLES-STAMPING-MOLDING-MKS-8516768.jpg',
+  },
+  {
+    id: 'MKS-8516769',
+    name: 'Bearing without Holes',
+    description: 'Replacement bearing without holes for stamping and molding assembly.',
+    imageUrl: 'https://i.postimg.cc/jSQ1837f/BEARING-WITHOUT-HOLES-STAMPING-MOLDING-MKS-8516769.jpg',
+  },
+  {
+    id: 'MKS-8516750',
+    name: 'Buckle',
+    description: 'Replacement buckle component for the bun toaster.',
+    imageUrl: 'https://i.postimg.cc/9Qtkxg7Y/BUCKLE-MKS-8516750.jpg',
+  },
+  {
+    id: 'MKS-8516770',
+    name: 'Ceramic Bearing',
+    description: 'High-durability replacement ceramic bearing.',
+    imageUrl: 'https://i.postimg.cc/JzcFTYkQ/CERAMIC-BEARING-MKS8516770.jpg',
+  },
+  {
+    id: 'MKS-8516741',
+    name: 'Coupling Parts',
+    description: 'Coupling parts designed for the new model of the MKS bun toaster.',
+    imageUrl: 'https://i.postimg.cc/g0zT1yVR/COUPLING-PARTS-FOR-NEW-MODEL-BUN-TOASTER-MKS-8516741.jpg',
+  },
+  {
+    id: 'MKS-8516739',
+    name: 'Extra Aluminum Plate',
+    description: 'Additional or replacement aluminum plate for the toaster.',
+    imageUrl: 'https://i.postimg.cc/6QWmFVrL/EXTRA-ALUMINUM-PLATE-MKS-8516739.jpg',
+  },
+  {
+    id: 'MKS-8516734',
+    name: 'Cooling Fan',
+    description: 'Replacement internal cooling fan assembly.',
+    imageUrl: 'https://i.postimg.cc/3w8czjXX/FAN-MKS-8516734.jpg',
+  },
+  {
+    id: 'MKS-8516761',
+    name: 'Rubber Feet',
+    description: 'Set of replacement rubber feet to ensure stability.',
+    imageUrl: 'https://i.postimg.cc/R0SD217T/FEET-MKS-8516761.jpg',
+  },
+  {
+    id: 'MKS-8516729',
+    name: 'Film Removing Paper',
+    description: 'Specialized paper for removing film during maintenance.',
+    imageUrl: 'https://i.postimg.cc/6QWmFVrc/FILM-REMOVING-PAPER-MKS8516729.jpg',
+  },
+  {
+    id: 'MKS-8516735',
+    name: 'Gear Knob',
+    description: 'Replacement knob for gear and speed adjustments.',
+    imageUrl: 'https://i.postimg.cc/Ls9bGkty/GEAR-KNOB-MKS-8516735.jpg',
+  },
+  {
+    id: 'MKS-8516767',
+    name: 'Hexagonal Stud',
+    description: 'Replacement hexagonal stud for internal assembly.',
+    imageUrl: 'https://i.postimg.cc/g0zT1yVT/HEXAGONAL-STUD-MKS-8516767.jpg',
+  },
+  {
+    id: 'MKS-8516742',
+    name: 'Main Temperature Control',
+    description: 'Main temperature control assembly unit.',
+    imageUrl: 'https://i.postimg.cc/k5TpCVsp/MAIN-TEMPERATURE-CONTROL-PARTS-MKS-8516742-Copy-Copy.jpg',
+  },
+  {
+    id: 'MKS-8516732',
+    name: 'Conveyor Motor',
+    description: 'Replacement motor for the conveyor belt system.',
+    imageUrl: 'https://i.postimg.cc/9fmnsPP5/MOTOR-MKS-8516732-Copy.jpg',
+  },
+  {
+    id: 'MKS-8516754',
+    name: 'Spring with Hook',
+    description: 'Replacement open spring component with attachment hook.',
+    imageUrl: 'https://i.postimg.cc/XvjztKKb/OPEN-SPRING-SPRING-WITH-HOOK-MKS-8516754.jpg',
+  },
+  {
+    id: 'MKS-8516749',
+    name: 'Overload Protection Switch',
+    description: 'Safety overload protection switch.',
+    imageUrl: 'https://i.postimg.cc/25kKgddY/OVERLOAD-PROYECTION-MKS-8516749.jpg',
+  },
+  {
+    id: 'MKS-8516762',
+    name: 'PVC Component 1',
+    description: 'Replacement PVC component part 1.',
+    imageUrl: 'https://i.postimg.cc/vm0Ny1hp/PVC1-MKS-8516762.jpg',
+  },
+  {
+    id: 'MKS-8516763',
+    name: 'PVC Component 2',
+    description: 'Replacement PVC component part 2.',
+    imageUrl: 'https://i.postimg.cc/FKTBvfp8/PVC2-MKS-8516763.jpg',
+  },
+  {
+    id: 'MKS-8516744',
+    name: 'Secondary Temperature Control',
+    description: 'Secondary temperature control assembly unit.',
+    imageUrl: 'https://i.postimg.cc/bvmBPGg7/SECOND-TEMPERATURE-CONTROL-PARTS-MKS-8516744-Copy-Copy.jpg',
+  },
+  {
+    id: 'MKS-8516730',
+    name: 'Silicone Conveyor Belt',
+    description: 'High-temperature resistant silicone conveyor belt.',
+    imageUrl: 'https://i.postimg.cc/3wtchy9h/SILICONE-CONVEYER-BELT-MKS8516730.jpg',
+  },
+  {
+    id: 'MKS-8516753',
+    name: 'Support Sticks',
+    description: 'Internal support sticks for assembly.',
+    imageUrl: 'https://i.postimg.cc/PqSRHLK5/STICKS-MKS-8516753.jpg',
+  },
+  {
+    id: 'MKS-8516743',
+    name: 'Temperature Control Knob',
+    description: 'Replacement knob for the main temperature control.',
+    imageUrl: 'https://i.postimg.cc/KY0HbKQg/TEMPERATURE-CONTROL-KNOB-MKS-8516743.jpg',
+  },
+  {
+    id: 'MKS-8516746',
+    name: 'Temperature Limiter',
+    description: 'Safety temperature limiter to prevent overheating.',
+    imageUrl: 'https://i.postimg.cc/rwLbN2KK/TEMPERATURE-LIMITER-MKS-8516746.jpg',
+  },
+  {
+    id: 'MKS-8516748',
+    name: 'Waterproof Cable Connector',
+    description: 'Waterproof connector for internal wiring.',
+    imageUrl: 'https://i.postimg.cc/3xCqLfvv/WATERPROOF-CABLE-CONNECTOR-MKS-8516748.jpg',
+  },
+  {
+    id: 'MKS-8516733',
+    name: 'Waterproof Switch (30A)',
+    description: 'Heavy-duty 30A waterproof ship-type switch.',
+    imageUrl: 'https://i.postimg.cc/x1yZspzq/WATERPROOF-SHIP-TYPE-SWUTCH-30-A-MKS-8516733.jpg',
+  },
+];
